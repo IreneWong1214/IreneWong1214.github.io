@@ -1,5 +1,11 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+typora-root-url: ./..\..\static
+title:  '{{ replace .File.ContentBaseName "-" " " | title }}'
+date: '{{ .Date }}'
+draft: true
+
+---
+
+
+
+

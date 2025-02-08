@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://IreneWong1214.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>大象公园</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 大象公园</description>
     <generator>Hugo -- 0.143.1</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://IreneWong1214.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <copyright>©2025 象的小碗</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 22:31:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://IreneWong1214.github.io/posts/01/</link>
+      <title>没有香蕉鱼的日子</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Feb 2025 22:31:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;写下来，痛苦就会过去&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;过去的半个月几乎每天都是在机场度过的。值机，安检，登机；飞机起飞，颠簸，平稳又下落，在云层里写了很多字，闭上眼的时候会幻想自己是戴爱心耳环踩八厘米高跟鞋的王佳梅，是想攒钱去香港看一场大雪的佩佩，是流着眼泪说，我竟然会傻到把这当做是爱的小松奈奈。睁开眼会想这趟航班有没有可能成为我最后一次的旅行，一旦有了这样的念头，就会觉得很多事情都不再重要，也不再能伤害到我了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://IreneWong1214.github.io/posts/01/</guid>
-      <description>&lt;p&gt;+++
-date = &amp;lsquo;2025-02-08T20:22:43+08:00&amp;rsquo;
-draft = false
-title = &amp;lsquo;01&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;+++&lt;/p&gt;
-&lt;p&gt;啦啦啦啦啦&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image-20250208205652521&#34; loading=&#34;lazy&#34; src=&#34;https://IreneWong1214.github.io/images/image-20250208205652521.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
     </item>
   </channel>
 </rss>

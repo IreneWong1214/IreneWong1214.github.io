@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://IreneWong1214.github.io/</loc>
-    <lastmod>2025-02-08T19:40:37+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
   </url><url>
-    <loc>https://IreneWong1214.github.io/posts/</loc>
-    <lastmod>2025-02-08T19:40:37+08:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
   </url><url>
-    <loc>https://IreneWong1214.github.io/posts/01/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
   </url><url>
-    <loc>https://IreneWong1214.github.io/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
   </url><url>
-    <loc>https://IreneWong1214.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E9%9A%8F%E6%89%8B%E5%86%99%E5%86%99/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%9C%AD%E8%AE%B0/</loc>
+    <lastmod>2025-02-08T22:31:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

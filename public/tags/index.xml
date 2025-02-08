@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://IreneWong1214.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on 大象公园</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 大象公园</description>
     <generator>Hugo -- 0.143.1</generator>
-    <language>en-us</language>
-    <atom:link href="https://IreneWong1214.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <copyright>©2025 象的小碗</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 22:31:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随手写写</title>
+      <link>http://localhost:1313/tags/%E9%9A%8F%E6%89%8B%E5%86%99%E5%86%99/</link>
+      <pubDate>Sat, 08 Feb 2025 22:31:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E9%9A%8F%E6%89%8B%E5%86%99%E5%86%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小碗和朋友</title>
+      <link>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B/</link>
+      <pubDate>Sat, 08 Feb 2025 22:31:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
