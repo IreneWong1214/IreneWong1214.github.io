@@ -1,5 +1,5 @@
 baseURL: "https://IreneWong1214.github.io/" # 主站的 URL
-title: 大象公园 # 站点标题
+title: 🐘大象公园 # 站点标题
 copyright: "[©2025 王琳](https://IreneWong1214.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
@@ -24,30 +24,31 @@ languages:
     # https://gohugo.io/content-management/menus/#define-in-site-configuration
     menus:
       main:
-        - name: Home
+        - name: 🏠Home
           pageRef: /
           weight: 4 # 控制在页面上展示的前后顺序
-        - name: Archives
+        - name: 📚Archives
           pageRef: archives/
           weight: 6
-        - name: Categories
+        - name: 🤓Categories
           pageRef: categories/
           weight: 10
-        - name: Tags
+        - name: 🤔Tags
           pageRef: tags/
           weight: 10
-        - name: Search
+        - name: 🔍Search
           pageRef: search/
           weight: 20
-        - name: About
+        - name: ✨About
           pageRef: about/
           weight: 5
                
-favicon: "<favicon_io/favicon.ico>"
-favicon16x16: "<favicon_io/favicon-16x16.png>"
-favicon32x32: "<favicon_io/favicon-32x32.png>"
-apple_touch_icon: "<favicon_io/apple-touch-icon.png>"
-
+params:
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
 params:
 
@@ -76,11 +77,10 @@ params:
   homeInfoParams:
     enabled: true # needs to be explicitly set
     Title: "Hey there \U0001F44B"
-    Content: 「知道么我总是惦记 十五岁不快乐的你」
-    imageUrl: "images/avatar.jpg"
-    imageWidth: 150
-    imageHeight: 150
-    
+    Content: 「知道么我总是惦记 十五岁不快乐的你 我多想把哭泣的你 搂进我怀里」
+    avatar: "images/avatar.jpg"   
+  
+      
 
   # 搜索
   fuseOpts:
