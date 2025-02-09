@@ -4,13 +4,13 @@
 }
 
 .home-avatar img {
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   border: 3px solid #f0f0f0;
   transition: transform 0.3s ease;
 }
 
 .home-avatar img:hover {
-  transform: rotate(5deg) scale(1.15);
+  transform: rotate(5deg) scale(1.25);
 }
