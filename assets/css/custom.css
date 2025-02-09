@@ -1,0 +1,6 @@
+article p {
+    margin-bottom: 1.5em; /* 设置段落底部的外边距，你可以根据需求调整数值 */
+}
+article p {
+    margin: 1em 0; /* 上下外边距为 1em，左右外边距为 0 */
+}
