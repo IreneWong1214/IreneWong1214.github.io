@@ -1,6 +1,6 @@
 baseURL: "https://IreneWong1214.github.io/" # 主站的 URL
 title: 大象公园 # 站点标题
-copyright: "[©2025 象的小碗](https://IreneWong1214.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2025 王琳](https://IreneWong1214.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
@@ -24,35 +24,46 @@ languages:
     # https://gohugo.io/content-management/menus/#define-in-site-configuration
     menus:
       main:
-        - name: 首页
+        - name: Home
           pageRef: /
           weight: 4 # 控制在页面上展示的前后顺序
-        - name: 归档
+        - name: Archives
           pageRef: archives/
-          weight: 5
-        - name: 分类
+          weight: 6
+        - name: Categories
           pageRef: categories/
           weight: 10
-        - name: 标签
+        - name: Tags
           pageRef: tags/
           weight: 10
-        - name: 搜索
+        - name: Search
           pageRef: search/
           weight: 20
-        - name: 关于
+        - name: About
           pageRef: about/
-          weight: 21
-          
+          weight: 5
+               
+favicon: "<favicon_io/favicon.ico>"
+favicon16x16: "<favicon_io/favicon-16x16.png>"
+favicon32x32: "<favicon_io/favicon-32x32.png>"
+apple_touch_icon: "<favicon_io/apple-touch-icon.png>"
+
+
 params:
 
   ShowReadingTime: true # 显示阅读时间（阅读内容所需的预计时间，以分钟为单位）。
+  ShowWordCount: true #是否显示文章字数统计
+  ShowBreadCrumbs: true #是否启用面包屑导航
+  ShowPostNavLinks: true #是否自动推荐关联文章
+  
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
-    title: 大象公园
+    enabled: false # needs to be explicitly set
+    title: "Hey there \U0001F44B"
+    subtitle: "「知道么我总是惦记 十五岁不快乐的你」"
     imageUrl: "images/avatar.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: my image
     buttons:
       - name: 历史发布
@@ -63,8 +74,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    enabled: true # needs to be explicitly set
+    Title: "Hey there \U0001F44B"
+    Content: 「知道么我总是惦记 十五岁不快乐的你」
+    imageUrl: "images/avatar.jpg"
+    imageWidth: 150
+    imageHeight: 150
     
 
   # 搜索
@@ -82,6 +97,6 @@ params:
 outputs:
   home:
     - HTML # 生成的静态页面
-    - RSS # 这个其实无所谓
-    - JSON # necessary for search, 这里的配置修改好之后，一定要重新生成一下
+    - RSS # 其实我也不知道为什么要加这一行，应该没啥关系哈
+    - JSON # necessary for search, 很多博主都说这个务必，那就务必吧
  

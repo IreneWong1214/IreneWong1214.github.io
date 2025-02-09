@@ -6,21 +6,49 @@
     <description>Recent content in Tags on 大象公园</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>zh</language>
-    <copyright>©2025 象的小碗</copyright>
-    <lastBuildDate>Sat, 08 Feb 2025 22:31:04 +0800</lastBuildDate>
+    <copyright>©2025 王琳</copyright>
+    <lastBuildDate>Sun, 09 Feb 2025 17:32:04 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>随手写写</title>
-      <link>http://localhost:1313/tags/%E9%9A%8F%E6%89%8B%E5%86%99%E5%86%99/</link>
-      <pubDate>Sat, 08 Feb 2025 22:31:04 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E9%9A%8F%E6%89%8B%E5%86%99%E5%86%99/</guid>
+      <title>幻想</title>
+      <link>http://localhost:1313/tags/%E5%B9%BB%E6%83%B3/</link>
+      <pubDate>Sun, 09 Feb 2025 17:32:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B9%BB%E6%83%B3/</guid>
       <description></description>
     </item>
     <item>
-      <title>小碗和朋友</title>
-      <link>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B/</link>
+      <title>平行世界</title>
+      <link>http://localhost:1313/tags/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Sun, 09 Feb 2025 17:32:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>情感</title>
+      <link>http://localhost:1313/tags/%E6%83%85%E6%84%9F/</link>
+      <pubDate>Sun, 09 Feb 2025 17:32:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E6%83%85%E6%84%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>社会派</title>
+      <link>http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</link>
+      <pubDate>Sun, 09 Feb 2025 17:07:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E6%B4%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>现实主义</title>
+      <link>http://localhost:1313/tags/%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/</link>
+      <pubDate>Sun, 09 Feb 2025 17:07:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小碗和朋友们</title>
+      <link>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC/</link>
       <pubDate>Sat, 08 Feb 2025 22:31:04 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B/</guid>
+      <guid>http://localhost:1313/tags/%E5%B0%8F%E7%A2%97%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%BB%AC/</guid>
       <description></description>
     </item>
   </channel>
