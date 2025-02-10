@@ -4,6 +4,8 @@ copyright: "[©2025 王王木木](https://IreneWong1214.github.io/)" # 网站的
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
+paginate: 5    # 首页每页显示的文章数
+
 enableInlineShortcodes: true # shortcode，类似于模板变量，可以在写 markdown 的时候便捷地插入，官方文档中有一个视频讲的很通俗
 hasCJKLanguage: true # 是否有 CJK 的字符
 enableRobotsTXT: true # 允许生成 robots.txt
@@ -56,6 +58,7 @@ params:
   ShowWordCount: true #是否显示文章字数统计
   ShowBreadCrumbs: true #是否启用面包屑导航
   ShowPostNavLinks: true #是否自动推荐关联文章
+  
   
   # profile-mode
   profileMode:
