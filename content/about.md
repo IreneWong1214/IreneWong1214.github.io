@@ -38,7 +38,7 @@ typora-root-url: ./..\static
 
 PS：本宣言支持七天无理由退货，但退货前请先通关我的新作《帕米尔下起陨石雨》。
 
-PPS：游戏购买地址为：🛸[**聪明的人可以看到隐形的超链接！**](https://read.douban.com/column/68391577/)
+PPS：游戏购买地址为：🛸[**聪明的人可以看到隐形的超链接！**](https://fanqienovel.com/page/7477543489253674008?enter_from=search)
 
 
 
